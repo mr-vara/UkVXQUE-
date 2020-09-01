@@ -25,6 +25,7 @@ To start the project, run:
 ```bash
 npm start
 ```
+Visit http://localhost:3000 in your browser. Angular dist app is already included in this backend project.
 
 ### Running Unit Tests
 
